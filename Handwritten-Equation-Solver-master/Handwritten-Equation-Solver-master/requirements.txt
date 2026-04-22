@@ -44,3 +44,13 @@ urllib3==1.25.10
 Werkzeug==1.0.1
 wrapt==1.12.1
 gunicorn
+Flask
+gunicorn
+tensorflow
+opencv-python
+numpy
+pandas
+scipy
+Pillow
+PyYAML
+requests
